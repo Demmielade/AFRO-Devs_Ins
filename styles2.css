@@ -1,0 +1,30 @@
+.intro {
+  text-align: center;
+  color: #eb3da0;
+  font-family: 'Work Sans', sans-serif;
+}
+body {
+  display: flex;
+  font-family: 'Work Sans', sans-serif;
+  flex-direction: column;
+}
+main {
+
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+
+}
+aside {
+
+flex: 1;
+overflow-y: auto;
+}
+article {
+  background-color: #37DE72;
+flex: 2;
+overflow-y: auto;
+}
+footer {
+
+}
